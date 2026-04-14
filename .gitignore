@@ -210,9 +210,6 @@ __marimo__/
 .env
 config_local.py
 
-# Local dev notes and documentation
-NOTES.md
-
 # OS files
 .DS_Store
 Thumbs.db
